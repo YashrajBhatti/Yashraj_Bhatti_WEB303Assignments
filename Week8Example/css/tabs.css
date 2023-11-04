@@ -72,3 +72,12 @@
 .accordion-panel img {
   display: block;
   clear: left;}
+
+  img{
+    width: 10%;
+  }
+
+  header{
+    display: flex;
+    justify-content: space-between;
+  }
