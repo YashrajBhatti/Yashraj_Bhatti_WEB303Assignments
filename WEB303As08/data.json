@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Iron Man",
+        "CharacterName": "Tony Stark",
+        "Abilities": "Powered armored suit granting super strength, flight, advanced technology, and weaponry.",
+        "firstAppearance": "Tales of Suspense #39",
+        "WarBuddy": "Captain America",
+        "ReleasedDate":"7-May-2008"
+    },
+    {
+        "name": "Captain America",
+        "CharacterName": "Steve Rogers",
+        "Abilities": "Enhanced strength, agility, and durability due to the Super-Soldier Serum. Master martial artist and shield expert.",
+        "firstAppearance": "Captain America Comics #1",
+        "WarBuddy": "Iron Man",
+        "ReleasedDate":"22-Jul-2011"
+    },
+    {
+        "name": "Thor",
+        "CharacterName": "Thor Odinson",
+        "Abilities": "God-like strength, control over lightning, flight with Mjolnir, and immortality.",
+        "firstAppearance": "Journey into Mystery #83",
+        "WarBuddy": "Hulk",
+        "ReleasedDate":"6-May-2011"
+    },
+    {
+        "name": "Hulk",
+        "CharacterName": "Bruce Banner",
+        "Abilities": "Superhuman strength, durability, and regeneration. Transforms into the Hulk when angered.",
+        "firstAppearance": "The Incredible Hulk #1",
+        "WarBuddy": "Thor",
+        "ReleasedDate":"13-Jun-2008"
+    },
+    {
+        "name": "Black Widow",
+        "CharacterName": "Natasha Romanoff",
+        "Abilities": "Expert martial artist, marksmanship, and espionage skills.",
+        "firstAppearance": "Tales of Suspense #52",
+        "WarBuddy": "Hawkeye",
+        "ReleasedDate":"4-May-2012"
+    },
+    {
+        "name": "Spider-Man",
+        "CharacterName": "Peter Parker",
+        "Abilities": "Agility, superhuman strength, wall-crawling, and spider-sense.",
+        "firstAppearance": "Amazing Fantasy #15",
+        "WarBuddy": "Iron Man",
+        "ReleasedDate":"6-Jul-2017"
+    },
+    {
+        "name": "Doctor Strange",
+        "CharacterName": "Stephen Strange",
+        "Abilities": "Mastery of mystic arts, time manipulation, and reality warping.",
+        "firstAppearance": "Strange Tales #110",
+        "WarBuddy": "Thor",
+        "ReleasedDate":"4-Nov-2016"
+    },
+    {
+        "name": "Black Panther",
+        "CharacterName": "T'Challa",
+        "Abilities": "Enhanced strength, agility, and senses. King of Wakanda with access to Vibranium technology.",
+        "firstAppearance": "Fantastic Four #52",
+        "WarBuddy": "Captain America",
+        "ReleasedDate":"16-Feb-2018"
+    }
+]
